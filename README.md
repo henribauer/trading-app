@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.svg" alt="Investing/Trading analysis App — evidence-based signals, local-first, data budget 0 €" width="100%">
+  <img src="img/banner.jpg" alt="Investing/Trading analysis App — evidence-based signals, local-first, data budget 0 €" width="100%">
 </p>
 
 # Investing/Trading analysis App
